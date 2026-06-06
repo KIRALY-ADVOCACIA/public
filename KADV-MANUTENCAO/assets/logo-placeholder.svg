@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180" role="img" aria-label="Kiraly Advocacia">
+  <rect width="560" height="180" rx="22" fill="#fffaf0"/>
+  <rect x="8" y="8" width="544" height="164" rx="18" fill="none" stroke="#d6a84f" stroke-width="2"/>
+  <text x="280" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="54" font-weight="700" fill="#071d3a">KIRALY</text>
+  <text x="280" y="122" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="9" fill="#9b762e">ADVOCACIA</text>
+  <text x="280" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#071d3a">LOGO SUBSTITUIVEL</text>
+</svg>
